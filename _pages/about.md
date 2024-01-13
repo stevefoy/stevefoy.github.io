@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.gmit.ie/'>ATU Galway </a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
