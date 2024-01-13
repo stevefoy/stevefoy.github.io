@@ -12,22 +12,22 @@ related_publications: true
 
 This work describes the development of a photo realistic dataset generated using Blender for a turfgrass environment to train deep learning networks to identify anomalies on turfgrass surfaces. Additionally, two colour transfer techniques are analysed, to ensure the synthetic data can closely resemble the real domain data.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/TurfgrassSynthetic.png
-    ---
+     @inproceedings{IMVIP2023,
+       author = {Stephen Foy and Simon Mc Loughlin},
+       title = {Assessment of Synthetic Turfgrass Dataset Generation for Divot Detection},
+       booktitle = { Irish Machine Vision and Image Processing Conference (IMVIP)},
+       year = {2023}
+      }
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/TurfgrassSynthetic.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/TurfgrassSynthetic.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/TurfgrassSynthetic.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
