@@ -28,14 +28,11 @@ social: true # includes social icons at the bottom of the page
 
 👨‍🏫 Since 2020, I've been sharing my knowledge as a Lecturer in Robotics and Automation at ATU Galway. My jam? Computer vision and embedded programming for industrial 4.0 robotic and automation applications.
 
-🎓🤖 I've started pursuing the journey for PhD at TUD in 2021. My genral focus? Cameras of course! Initially in the area of Deep Learning and perception for autonomous mobile robotics!
-🌱 I've particularly became fascinated in the topic of anomaly analysis in turfgrass environments !
+🎓🤖 I've started pursuing the journey for a PhD in 2021 at Technological University Dublin (TUD). My genral focus? Cameras of course! Initially in the area of Deep Learning and perception for autonomous mobile robotics!
+🌱 I've particularly became fascinated in the topic of anomaly analysis in turfgrass environments ! This work is under projects here
 
 
+Feel free to connect via LinkedIn with me about all things computer vision and robotics! 🤖
 
 
-
-Feel free to connect with me about all things computer vision and robotics! 🤖
-
-Link  [subreddit](http://reddit.com).
 
