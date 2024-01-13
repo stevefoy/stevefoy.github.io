@@ -10,13 +10,13 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p></p>
-    <p>Atlantic Technological University (also known as ATU)</p>
+    <p>Atlantic Technological University (ATU)</p>
     <p>Galway City Campus </p>
 
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
 🎓 Way back in 2005, I wrapped up my B.Sc. in Computer Science and Software Engineering at NUI Maynooth. I then dived into a cool project on inertial sensors and stereo vision for my M.Eng at TUD, which I completed in 2007. 
