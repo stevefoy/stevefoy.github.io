@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Synthetic turfgrass
 description: Project for IMVIP 2023
 img: assets/img/TurfgrassSynthetic.png
 importance: 1
