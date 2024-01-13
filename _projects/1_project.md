@@ -10,7 +10,7 @@ related_publications: true
 
 
 
-This work describes the development of a photo realistic dataset generated using Blender for a turfgrass environment to train deep learning networks to identify anomalies on turfgrass surfaces. Additionally, two colour transfer techniques are analysed, to ensure the synthetic data can closely resemble the real domain data.
+This work describes the development process of a photo realistic dataset generated using Blender for a turfgrass environment to train deep learning networks to identify anomalies on turfgrass surfaces. Additionally, two colour transfer techniques are analysed, to ensure the synthetic data can closely resemble the real domain data.
 
      @inproceedings{IMVIP2023,
        author = {Stephen Foy and Simon Mc Loughlin},
